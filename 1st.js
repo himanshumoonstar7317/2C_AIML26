@@ -1,0 +1,10 @@
+let game="Sleeping Game";
+let player="Moonstar";
+let player2="Sunbeam";
+const gameCountry="India";
+let age=20;
+console.log("Game Name: " + game);
+console.log("Player 1: " + player);
+console.log("Player 2: " + player2);
+console.log("Game Country: " + gameCountry);
+console.log("Age: " + age);
